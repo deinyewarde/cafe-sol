@@ -1,0 +1,95 @@
+h1,h2,p {
+	text-align:center;
+}
+
+h1, h2 {
+	font-family: 'Anton', sans-serif;
+}
+
+body {
+	background-image: url("../img/coffee-beans.jpg");
+	font-family: sans-serif;
+	padding: 20px;
+}
+
+.menu {
+	width: 80%;
+	background-color: burlywood;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+	max-width: 500px;
+}
+
+.flavor, .cake {
+	text-align: left;
+	width: 50%;
+}
+
+.price {
+	text-align: right;
+	width: 50%;
+}
+
+.item p {
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 18px;
+}
+
+.established {
+	font-style: italic;
+}
+
+h1 {
+	font-size: 40px;
+	margin-top: 0px;
+	margin-bottom: 15px
+}
+
+.bottom-line {
+	margin-top: 25px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+hr {
+	height: 2px;
+	background-color: brown;
+	border-color: brown;
+}
+
+/* FOOTER */
+footer {
+	font-size: 14px;
+}
+
+a {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: brown;
+}
+
+a:active {
+	color: brown;
+}
+
+.address {
+	margin-bottom: 5px;
+}
+
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -25px;
+}
